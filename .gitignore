@@ -1,0 +1,17 @@
+SpoutSender/obj/
+SpoutSender/bin/
+SpoutReceiver/obj/
+SpoutReceiver/bin/
+*.png
+SpoutReceiver/SpoutReceiver.sdf
+SpoutReceiver/SpoutReceiver.sln
+SpoutReceiver/SpoutReceiver.vcxproj
+SpoutReceiver/SpoutReceiver.vcxproj.filters
+SpoutReceiver/addons.make
+SpoutReceiver/icon.rc
+SpoutSender/SpoutSender.sdf
+SpoutSender/SpoutSender.sln
+SpoutSender/SpoutSender.vcxproj
+SpoutSender/SpoutSender.vcxproj.filters
+SpoutSender/addons.make
+SpoutSender/icon.rc
