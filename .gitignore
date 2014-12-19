@@ -15,3 +15,14 @@ SpoutSender/SpoutSender.vcxproj
 SpoutSender/SpoutSender.vcxproj.filters
 SpoutSender/addons.make
 SpoutSender/icon.rc
+SpoutReceiver/SpoutReceiver.opensdf
+SpoutSender/SpoutSender.opensdf
+VideoGrabberSpoutSender/obj/Debug/link.2380-rc.write.1.tlog
+VideoGrabberSpoutSender/obj/
+VideoGrabberSpoutSender/VideoGrabberSpoutSender.sdf
+VideoGrabberSpoutSender/VideoGrabberSpoutSender.sln
+VideoGrabberSpoutSender/VideoGrabberSpoutSender.vcxproj
+VideoGrabberSpoutSender/VideoGrabberSpoutSender.vcxproj.filters
+VideoGrabberSpoutSender/addons.make
+VideoGrabberSpoutSender/bin/VideoGrabberSpoutSender_debug.exp
+VideoGrabberSpoutSender/icon.rc

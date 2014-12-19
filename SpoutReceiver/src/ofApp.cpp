@@ -32,6 +32,8 @@ void ofApp::setup(){
 	
 	spoutreceiver	= new SpoutReceiver;	// Create a new Spout receiver
 
+	// spoutreceiver->SetDX9(true);
+
 	bInitialized	= false;				// Spout receiver initialization
 	g_Width			= 320;					// set global width and height to something
 	g_Height		= 240;					// they need to be reset when the receiver connects to a sender

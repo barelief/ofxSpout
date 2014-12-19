@@ -45,6 +45,9 @@ void ofApp::setup(){
 	myTextureImage.mirror(false, true);					// correct orientation
 
 	spoutsender = new SpoutSender;						// Create a new Spout sender
+
+	// spoutsender->SetDX9(true);
+
 	sendertexture = 0;									// Initially there is no local OpenGL texture ID
 	InitGLtexture(sendertexture, g_Width, g_Height);	// Create an OpenGL texture for data transfers
 
