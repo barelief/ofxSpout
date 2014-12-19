@@ -1,11 +1,11 @@
 ofxSpout
 ========
 
-## info
+### info
 
+V2.001-beta
 http://spout.zeal.co/
-
-https://github.com/leadedge/Spout2
+source: https://github.com/leadedge/Spout2
 
 ## troubleshooting
 
