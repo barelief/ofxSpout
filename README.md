@@ -9,12 +9,12 @@ https://github.com/leadedge/Spout2
 
 ## troubleshooting
 
-if you are having issues on Intel videocard - add:
+if you are having issues on Intel videocard - add this line in *ofApp::setup()* after `spoutsender = new SpoutSender`:
 
 ```
-spoutsender->SetDX9(true);  
+spoutsender->SetDX9(true);  // in SpoutSender example
 // or
-spoutreceiver->SetDX9(true);
+spoutreceiver->SetDX9(true); // in SpoutReceiver example
 ```
 thread: http://spout.zeal.co/forums/topic/createinterop-error-3/
 
